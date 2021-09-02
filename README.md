@@ -5,7 +5,7 @@
  * bla bla bla
  * 10 riadkov
  * daj commit
- 
+
  * potom zmaz riadok
  * potom pozri historiu
 ** SUPER HAHA **
