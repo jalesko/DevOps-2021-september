@@ -5,6 +5,7 @@ bla bla
 
 
 novy riadok
+task 6 by chcel byt
 
 
 **dzemik**
