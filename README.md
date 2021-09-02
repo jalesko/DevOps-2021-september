@@ -1,13 +1,14 @@
-#DevOps-2021-september
-*toto je nas projekt
+# DevOps-2021-september
 
-skusam
-co to spravi 
+*toto je nas projekt<br>
+
+skusam<br>
+co to spravi <br>
  * bla bla bla
  * 10 riadkov
  * daj commit  
 
- * potom zmaz riadok  
+ potom zmaz riadok  <br>
   * potom pozri historiu
 **SUPER HAHA**<br>
 next line<br>
