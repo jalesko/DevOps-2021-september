@@ -4,7 +4,7 @@
  * co to spravi 
  * bla bla bla
  * 10 riadkov
- * daj commit
+ * daj commit  
 
  * potom zmaz riadok
  * potom pozri historiu
