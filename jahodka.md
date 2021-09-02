@@ -12,5 +12,9 @@ novy riadok
 kompot
 
 kolacik
+mnam 
+mnam 
+mnam
+mnam
 
 **ham ham**
