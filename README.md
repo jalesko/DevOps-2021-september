@@ -10,3 +10,6 @@ co to spravi
  * potom zmaz riadok  
   * potom pozri historiu
 ** SUPER HAHA **
+next line  
+by som chcela  
+
