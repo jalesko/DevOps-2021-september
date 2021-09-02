@@ -9,7 +9,8 @@ co to spravi <br>
  * daj commit  
 
  potom zmaz riadok  <br>
-  * potom pozri historiu
+  * potom pozri historiu<br>
+ 
 **SUPER HAHA**<br>
 next line<br>
 by som chcela  
