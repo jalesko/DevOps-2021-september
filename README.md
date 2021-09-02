@@ -1,5 +1,5 @@
-# DevOps-2021-september
-* toto je nas projekt
+#DevOps-2021-september
+*toto je nas projekt
 
 skusam
 co to spravi 
@@ -9,7 +9,7 @@ co to spravi
 
  * potom zmaz riadok  
   * potom pozri historiu
-** SUPER HAHA **<br>
+**SUPER HAHA**<br>
 next line<br>
 by som chcela  
 
