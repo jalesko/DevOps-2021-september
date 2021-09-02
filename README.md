@@ -9,7 +9,7 @@ co to spravi
 
  * potom zmaz riadok  
   * potom pozri historiu
-** SUPER HAHA **
-next line  
+** SUPER HAHA **<br>
+next line<br>
 by som chcela  
 
