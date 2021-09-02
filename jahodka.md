@@ -1,7 +1,7 @@
 # Toto je jahodka 
 
 
-bla bla
+bla bla bla bla task 6
 
 
 novy riadok
